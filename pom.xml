@@ -3,8 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.pageobject</groupId>
-	<artifactId>page-object-core</artifactId>
+	<groupId>com.github.pageobject</groupId>
+	<artifactId>pageobject-core</artifactId>
 	<name>Page object pattern framework</name>
 	<version>1.0.0-SNAPSHOT</version>
 	<description>Framework implementing page object pattern, providing some useful methods for writing web application automated tests. 
