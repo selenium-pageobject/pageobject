@@ -18,7 +18,9 @@ import com.pageobject.component.AbstractTest;
  */
 public interface TableEntity {
 
-	/**
+	system.out.println("Thayag added function ");
+
+/**
 	 * Returns a business key for an entity.
 	 * List of attributes uniquely identifying an entity in a table row.
 	 * @return array of string displayed in the table.
